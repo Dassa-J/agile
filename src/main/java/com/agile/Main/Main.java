@@ -184,7 +184,7 @@ public class Main {
             adminScreen();
         }
         else{
-            System.out.println(" \n Please choose an option:\n ");
+            System.out.println(" \n Please choose a option:\n ");
             deleteOrder();
         }
     }
