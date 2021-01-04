@@ -34,7 +34,7 @@ public class Main {
     }
 
     public static void adminLogin() {
-        System.out.println("Welcome to Manager page \n ");
+        System.out.println("Welcome to Administrator page \n ");
 
         
         System.out.println("Enter your username:");
