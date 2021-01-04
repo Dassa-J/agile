@@ -59,10 +59,10 @@ public class Main {
 
     public static void adminScreen() {
         System.out.println("Please select an option \n ");
-        System.out.println("Press 1.Add new Order \n ");
-        System.out.println("Press 2.Update an Order \n ");
-        System.out.println("Press 3.Search for an Order \n ");
-        System.out.println("Press 4.Delete an Order \n ");
+        System.out.println("Enter 1.Add new Order \n ");
+        System.out.println("Enter 2.Update an Order \n ");
+        System.out.println("Enter 3.Search for an Order \n ");
+        System.out.println("Enter 4.Delete an Order \n ");
  
         int choice = sc.nextInt();
         if (choice == 1) {
